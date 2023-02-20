@@ -1,5 +1,6 @@
 # qtros
 ## This package is for arm processor PC like Jetson Nano.
+## I have been working on ARM based PC's like Jetson Nano. I need UI based ROS package but qt_ros_plugin doesn't supports arm64(aarch64). So I made a qt_ros template to solve this out. I've tested UDP communication package, cv based camera ui package and so on. This template will allow you to have GUI expereance with ROS melodic. 
 This package will allow you to make QT based UI package without installing qt-ros-plugin which is not available to install on ARM PC's.
 You can clone this package and use. 
 
