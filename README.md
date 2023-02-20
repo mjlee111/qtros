@@ -5,6 +5,7 @@ You can clone this package and use.
 
 ### To make this possible, I used ~~_MultiThread_~~. I used different thread for ROS, and UI.
 ### I couldn't find any other solutions. If you have any other solution, let me know.
+### Because this git repository contains qtros named package, you have to edit all the names if you want to create another package. So to make it easier please use my repo over here -> https://github.com/mjlee111/qt_create 
 
 # Codes
 ## 1. src
