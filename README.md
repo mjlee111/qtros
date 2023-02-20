@@ -4,6 +4,7 @@ This package will allow you to make QT based UI package without installing qt-ro
 You can clone this package and use. 
 
 ### To make this possible, I used ~~_MultiThread_~~. I used different thread for ROS, and UI.
+### I couldn't find any other solutions. If you have any other solution, let me know.
 
 # Codes
 ## 1. src
